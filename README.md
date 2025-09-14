@@ -1,31 +1,41 @@
-# Hi, I'm Aagman Joshi 👋
+# 👋 Welcome to my GitHub!  
 
-Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a knack for transforming raw data into compelling stories and actionable insights. My journey from a **Testing Engineer** to a Data Analyst has equipped me with a keen eye for detail and a strong foundation in problem-solving, making me adept at uncovering patterns and delivering results.
+I’m **Aagman Joshi** — a **Data & Strategy professional** passionate about transforming raw data into **insights, stories, and sustainable solutions**. With a background in **electronics engineering**, experience in **software development & testing**, and current work as a **Data Analyst**, I bring a unique blend of **technical depth, business acumen, and sustainability focus**.  
 
-## 🎨 Tools and Technologies I Use
-- **Advanced Excel** 📊: For complex data analysis and visualization.
-- **Power BI** 📈: Crafting interactive dashboards and reports.
-- **SQL** 🗃️: Managing and querying large datasets efficiently.
-- **Python** 🐍: Automating tasks and performing data analysis.
+---
 
-## 🌱 What I'm Currently Learning
-- **Machine Learning** 🤖: Expanding my knowledge in predictive analytics and model building.
-- **R Programming** 📐: Diving into statistical analysis and data visualization with R.
-- **Data Science Best Practices** 📚: Continuously improving my data science toolkit by learning new methodologies and tools.
+## 🛠️ Tools & Technologies  
+- **SQL** 🗃️ – data modeling, queries, and validation  
+- **Python** 🐍 – analytics, automation, and visualization  
+- **Power BI** 📊 – dashboards, KPI monitoring, and decision support  
+- **Excel (Advanced)** 📈 – financial & operational reporting  
+- **ETL & Data Integration** – MS SQL Server, Oracle, Salesforce, Dynamics 365  
 
-## 🤝 I'm Looking to Collaborate On
-- **Data-Driven Projects**: Collaborations that involve data analysis, visualization, or automation.
-- **Open Source Contributions**: Projects where I can contribute to the data analytics or visualization components.
-- **Innovative Ideas**: Any initiative where data can be leveraged to create impactful solutions.
+---
 
-## 🚀 What Drives Me
-I believe that data is more than just numbers—it's the paint that colors the picture of success. Every dataset holds a story, and I'm here to tell it. Whether it's identifying key business trends or optimizing processes, I'm dedicated to using data to drive innovation and growth.
+## 🌱 Currently Exploring  
+- **Machine Learning** 🤖 – predictive analytics & modeling  
+- **Lifecycle Assessment (LCA) & TCO** 🌍 – data-driven sustainability evaluation  
+- **Data Science Best Practices** 📚 – scalable, efficient, and ethical analytics  
 
-## 🌟 Fun Fact
-When I'm not crunching numbers, you might find me exploring the latest advancements in space technology or working on a personal project related to autonomous systems. I'm a tech enthusiast who enjoys blending creativity with technical skills to solve complex problems.
+---
 
-## 🔗 Let's Connect
-I'm always open to discussing new ideas, collaborations, or opportunities. If you're interested in data-driven solutions or just want to chat about the latest in data analytics, feel free to reach out!
+## 🤝 Let’s Collaborate On  
+- **Data-Driven Projects** – analytics, reporting, automation  
+- **Sustainability & EV Analytics** – mobility, energy transition, emissions dashboards  
+- **Open Source Contributions** – adding value to data analytics or visualization tools  
+
+---
+
+## 🚀 What Drives Me  
+I believe **data is more than numbers** — it’s a **strategic tool for innovation and sustainable growth**. My work spans **financial & operational analytics, staffing/resource optimization, and sustainability-focused insights**. Whether it’s building a dashboard, automating workflows, or analyzing lifecycle emissions, I aim to **bridge technology, strategy, and sustainability**.  
+
+---
+
+## 🌟 Fun Side  
+Outside of work, I’m curious about **future mobility, autonomous systems, and space tech** 🚀. I love exploring how emerging technologies can reshape how we live and move.  
+
+---
 
 - **LinkedIn**: [Aagman Joshi](https://www.linkedin.com/in/aagmanjoshi)
 - **Email**: [aagman.work@gmail.com](mailto:aagman.work@gmail.com)
